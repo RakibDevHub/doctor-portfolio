@@ -1320,7 +1320,7 @@ export default function DoctorPortfolioPrestige() {
                   alt={t.name}
                   direction="bottom"
                   delay={200}
-                  className="relative aspect-[4/5] rounded-[2rem]"
+                  className="relative aspect-[4/5] rounded-[2rem] -scale-x-100"
                 />
                 {/* Badges */}
                 <div className="absolute -left-6 bottom-8 flex items-center gap-3 rounded-2xl border border-[#1a3a2e]/10 bg-[#faf7f2] px-4 py-3 shadow-2xl shadow-[#1a3a2e]/10">
